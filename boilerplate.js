@@ -6,4 +6,4 @@ let result= a * b
 
 let reality = 1
 
-console.log("cik tev vajadz''etu būt iq "+ result + " cik tu dabūji: " + reality)
+console.log("cik tev vajadzētu būt iq "+ result + " cik tu dabūji: " + reality)
